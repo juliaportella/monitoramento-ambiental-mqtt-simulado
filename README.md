@@ -30,10 +30,3 @@ A comunicação dos dados de temperatura e umidade é realizada via protocolo **
 2.  Clique no botão "Start Simulation" (Play).
 3.  Observe a saída no Monitor Serial e interaja com o sensor DHT22 virtual para ver o LED acender/apagar.
 4.  Para verificar os dados MQTT, conecte um cliente MQTT (ex: MQTT Explorer) ao `test.mosquitto.org` na porta 1883 e assine os tópicos `mackenzie/iot/temperatura` e `mackenzie/iot/umidade`.
-
-## 📚 Referências
-
-* **Artigo Completo:** (Se você tiver o link para o artigo publicado, insira aqui)
-* **Vídeo Demonstração:** (Insira o link para o seu vídeo no YouTube aqui)
-
----
